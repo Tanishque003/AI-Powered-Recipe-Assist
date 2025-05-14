@@ -1,1 +1,1 @@
-# AI---powered-Recipe-Assist
+# AI-powered-Recipe-Assist
